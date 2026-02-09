@@ -41,3 +41,21 @@ n
 ## Disclaimer
 This project is intended for educational and research purposes only.
 
+
+
+## Screenshots
+
+### Framework Execution
+![Framework Execution](screenshots/your_screenshot_name.png)
+
+
+## Architecture
+
+The framework follows a modular structure:
+
+- main.py — Entry point for payload processing
+- evasion/ — Encoding and obfuscation techniques
+- payloads/ — Sample payload inputs
+- screenshots/ — Demonstration images
+
+This modular design allows easy addition of new evasion techniques and payload formats.
