@@ -89,3 +89,9 @@ The author does not support or encourage misuse of this project for unauthorized
 
 
 
+## Example Execution
+$ python3 main.py
+
+Payload: test_payload_data
+Encoded Payload: dGVzdF9wYXlsb2FkX2RhdGE=
+Detected: False
