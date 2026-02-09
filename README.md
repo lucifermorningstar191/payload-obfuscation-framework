@@ -34,14 +34,6 @@ python3 src/encoder.py
 
 ---
 
-#### Disclaimer
-
-```markdow
-n
-## Disclaimer
-This project is intended for educational and research purposes only.
-
-
 
 ## Screenshots
 
@@ -59,3 +51,30 @@ The framework follows a modular structure:
 - screenshots/ — Demonstration images
 
 This modular design allows easy addition of new evasion techniques and payload formats.
+
+
+## Features
+
+- Modular payload processing framework
+- Basic payload obfuscation workflow
+- Organized evasion technique structure
+- Easy extension for new encoding methods
+- Designed for security learning and research purposes
+
+
+## Disclaimer
+
+This project is developed for educational and research purposes only.
+The framework is intended to demonstrate payload obfuscation concepts used in cybersecurity research and defensive analysis.
+Do not use this project against systems without proper authorization.
+
+
+## Future Improvements
+
+- Add multiple encoding techniques
+- CLI argument support
+- Logging functionality
+- Automated payload testing
+- Integration with security lab environments
+
+
